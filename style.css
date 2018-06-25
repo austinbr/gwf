@@ -1,0 +1,81 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+#navbar {
+	border: 2px solid white;
+	position: fixed;
+	width: 100px;
+}
+
+#navbar > ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+#navbar > ul > li {
+	color: white;
+	margin-left: -40px;
+}
+
+#logo > img {
+	width:90%;
+}
+
+#lessons > img {
+	width:90%;
+}
+
+#lessons > ul {
+	list-style-type: none;
+}
+
+#about {
+	width: 90%;
+}
+
+#about > div {
+	width: 40%;
+	display: inline;
+}
+
+#about > div > ul {
+	list-style-type: none;
+}
+
+#about > div > a > img {
+	display: inline-block;
+}
+
+#contact > img {
+	width:90%;
+}
+
+#contact > ul {
+	list-style-type: none;
+}
+
+.yellow {
+	color: #af0;
+}
+
+.gold {
+	color: #fa0;
+}
+
+.pink {
+	color: #f0a;
+}
+
+.purple {
+	color: #a0f;	
+}
+
+.blue {
+	color: #0af;
+}
+
+.green {
+	color: #0f0;
+}
